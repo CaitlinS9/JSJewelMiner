@@ -1,7 +1,7 @@
 ﻿#pragma strict
 
 var origin : Transform;
-var speed : float = 4f;
+var speed : float = 4.0;
 var gun : Gun;
 var scoreManager : ScoreManager;
 
