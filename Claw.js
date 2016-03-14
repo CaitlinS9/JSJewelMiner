@@ -12,7 +12,7 @@ var lineRenderer : LineRenderer;
 var hitJewel : boolean;
 var retracting : boolean;
 
-function Avake () 
+function Awake () 
 {
 	lineRenderer = GetComponent.<LineRenderer>();
 }
